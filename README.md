@@ -6,6 +6,8 @@ mysms.com developer API php wrapper class
 How to Use
 ----------
 
+<pre>
+
 <?php
 
 //include mysms class
@@ -29,3 +31,5 @@ $user_info = json_decode($login); //decode json string to get AuthToken
 $AuthToken = $user_info->authToken;
 
 ?>
+
+</pre>
