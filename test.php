@@ -1,5 +1,10 @@
 <?php
 
+/*!
+* Idragons Interactive
+* http://idragonsinteractive.com | http://github.com/idragons/mysms-api-php-wrapper
+*/
+
 session_start;
 
 
