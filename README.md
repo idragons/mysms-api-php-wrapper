@@ -6,7 +6,7 @@ mysms.com developer API php wrapper class
 How to Use
 ----------
 
-<pre>
+<code>
 
 <?php
 
@@ -32,4 +32,4 @@ $AuthToken = $user_info->authToken;
 
 ?>
 
-</pre>
+</code>
